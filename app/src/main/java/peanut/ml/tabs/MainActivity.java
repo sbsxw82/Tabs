@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private SectionsPageAdapter sectionsPageAdapter;
     private TabLayout tabLayout;
-    private int anInt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
